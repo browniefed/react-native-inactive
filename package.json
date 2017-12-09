@@ -1,0 +1,24 @@
+{
+  "name": "react-native-inactive",
+  "version": "1.0.0",
+  "description": "A component that detects touch inactivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/browniefed/react-native-inactive.git"
+  },
+  "keywords": [
+    "react-native",
+    "inactive",
+    "panresponder"
+  ],
+  "author": "Jason Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/browniefed/react-native-inactive/issues"
+  },
+  "homepage": "https://github.com/browniefed/react-native-inactive#readme"
+}
