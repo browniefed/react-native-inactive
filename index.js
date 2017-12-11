@@ -19,6 +19,8 @@ export default class Inactive extends Component {
         this.timeout = setTimeout(() => {
           this.setState({ inactive: true });
         }, this.props.delay);
+
+        return false;
       },
     });
   }
